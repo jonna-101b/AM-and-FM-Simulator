@@ -1,0 +1,8 @@
+{
+  "name": "AM and FM Simulator",
+  "description": "Interactive communications engineering simulator comparing Amplitude Modulation (AM) with envelope detection and Frequency Modulation (FM) with quadrature discrimination under AWGN, distortion, and threshold conditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
